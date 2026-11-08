@@ -1,0 +1,15 @@
+# Kuku's input pack is confidential: never commit it
+input/
+# Everything below can contain screenplay text, so it stays local.
+# The website shows demo/ instead (summaries only). Raw outputs are shared by private link, not here.
+cache/
+parsed/
+output/
+eval/report.md
+eval/judge_check_log.txt
+eval/ablation_log.txt
+# keys
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc

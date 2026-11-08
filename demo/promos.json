@@ -1,0 +1,706 @@
+[
+ {
+  "mode": "acquisition",
+  "rank": 1,
+  "total": 5.0,
+  "cid": "E15A_0442_0860",
+  "episode": 15,
+  "pool": "A",
+  "segments": [
+   {
+    "episode": 15,
+    "start": "00:44.20",
+    "end": "01:26.00",
+    "start_sec": 44.2,
+    "end_sec": 86.0,
+    "start_element": "E15_030",
+    "end_element": "E15_054"
+   }
+  ],
+  "duration_sec": 41.8,
+  "hook": "A thug demands she move, and Juliana defiantly tells him 'No' before getting shoved down.",
+  "cliffhanger": "Alexander steps in to defend Juliana, and the thug challenges him to fight.",
+  "cliffhanger_type": "threat",
+  "why": "Flawless microdrama pacing with an immediate confrontation hook, high emotional cruelty, a heroic entrance, and a tense pre-fight cliffhanger.",
+  "post_first": "Flawless top-of-funnel opener with instant damsel-meets-protector stakes, though it risks feeling like a standard romance trope without deeper context.",
+  "scores": {
+   "hook": 5,
+   "cliffhanger": 5,
+   "standalone": 5,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "rescore",
+  "missing_context": "None; the dynamic is immediately obvious: vulnerable heroine abused by thugs, stoic hero arrives to defend her.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 2,
+  "total": 5.0,
+  "cid": "E32B_1169_1544",
+  "episode": 32,
+  "pool": "B",
+  "segments": [
+   {
+    "episode": 32,
+    "start": "01:56.90",
+    "end": "02:34.38",
+    "start_sec": 116.9,
+    "end_sec": 154.38,
+    "start_element": "E32_089",
+    "end_element": "E32_116"
+   }
+  ],
+  "duration_sec": 37.48,
+  "hook": "Juliana insults Catherine, who screams in hysterics and raises a red-hot branding iron.",
+  "cliffhanger": "Will Catherine blind Juliana with the glowing branding poker hovering millimeters from her eye?",
+  "cliffhanger_type": "threat",
+  "why": "Unbeatable visceral drama with an electrifying dialogue duel and an agonizing, high-stakes physical cliffhanger.",
+  "post_first": "Delivers visceral, high-retention sadism and defiance with a glowing branding iron, though it sits very close in visual theme and threat to E31A.",
+  "scores": {
+   "hook": 5,
+   "cliffhanger": 5,
+   "standalone": 5,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "rescore",
+  "missing_context": "None. The visual setup instantly conveys the dynamic: an unbowed woman in chains dismantling the ego of her sadistic captor.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 3,
+  "total": 4.75,
+  "cid": "E05A_0555_1008",
+  "episode": 5,
+  "pool": "A",
+  "segments": [
+   {
+    "episode": 5,
+    "start": "00:55.50",
+    "end": "01:40.80",
+    "start_sec": 55.5,
+    "end_sec": 100.8,
+    "start_element": "E05_033",
+    "end_element": "E05_058"
+   }
+  ],
+  "duration_sec": 45.3,
+  "hook": "A cruel matriarch snatches Juliana's treasured ledger and hurls it into a mud puddle.",
+  "cliffhanger": "What will the mysterious scarred husband do when Gerald insults his new wife?",
+  "cliffhanger_type": "threat",
+  "why": "It possesses an explosive physical hook, high romantic/protective tension, and ends on a razor-sharp verbal threat.",
+  "post_first": "Strong universal class rage-bait with the destroyed ledger, though the husband's intervention payoff is a bit slower than higher-ranked clips.",
+  "scores": {
+   "hook": 5,
+   "cliffhanger": 5,
+   "standalone": 4,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "rescore",
+  "missing_context": "Viewers do not know the exact backstory of the ledger, but the physical act, cruelty of the onlookers, and protective arrival of the husband make the dynamic instantly legible.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 4,
+  "total": 4.75,
+  "cid": "E31A_1310_1600",
+  "episode": 31,
+  "pool": "A",
+  "segments": [
+   {
+    "episode": 31,
+    "start": "02:11.00",
+    "end": "02:40.00",
+    "start_sec": 131.0,
+    "end_sec": 160.0,
+    "start_element": "E31_071",
+    "end_element": "E31_087"
+   }
+  ],
+  "duration_sec": 29.0,
+  "hook": "A villainous woman screams and scorches a precious book with a glowing red-hot iron.",
+  "cliffhanger": "A red-hot poker stops inches from Juliana's eyeball as she cowers in chains.",
+  "cliffhanger_type": "threat",
+  "why": "Perfection for short-form: immediate high-stakes action hook and a heart-stopping physical peril cliffhanger.",
+  "post_first": "Intense micro-stakes torture hook that stops scrolls immediately, but risks audience fatigue if posted too close to the superior E32B torture scene.",
+  "scores": {
+   "hook": 5,
+   "cliffhanger": 5,
+   "standalone": 4,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "rescore",
+  "missing_context": "Why Juliana is chained in a dungeon, though Catherine explicitly states the book is her mother's life's work, providing the necessary emotional stakes.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 5,
+  "total": 4.75,
+  "cid": "E45A_0865_1218",
+  "episode": 45,
+  "pool": "A",
+  "segments": [
+   {
+    "episode": 45,
+    "start": "01:26.50",
+    "end": "02:01.75",
+    "start_sec": 86.5,
+    "end_sec": 121.75,
+    "start_element": "E45_057",
+    "end_element": "E45_073"
+   }
+  ],
+  "duration_sec": 35.25,
+  "hook": "Church doors bang open as a stern High Priest commands that no one bow.",
+  "cliffhanger": "The High Priest declares the marriage void, prompting an evil smirk from the rejected rival.",
+  "cliffhanger_type": "revelation",
+  "why": "A classic wedding disruption that executes flawless pacing and ends on a deliciously villainous reaction shot.",
+  "post_first": "Grand ceremonial drama that hooks fans of political romance twists, but slightly risks alienating casual scrollers unfamiliar with the wedding stakes.",
+  "scores": {
+   "hook": 5,
+   "cliffhanger": 5,
+   "standalone": 4,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "rescore",
+  "missing_context": "The backstory of the marriage ceremony being disputed is clear in dialogue, though the full political mechanics are brief.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 6,
+  "total": 4.7,
+  "cid": "E11B_0540_1128",
+  "episode": 11,
+  "pool": "B",
+  "segments": [
+   {
+    "episode": 11,
+    "start": "00:54.00",
+    "end": "01:52.75",
+    "start_sec": 54.0,
+    "end_sec": 112.75,
+    "start_element": "E11_048",
+    "end_element": "E11_085"
+   }
+  ],
+  "duration_sec": 58.75,
+  "hook": "The constable violently barges in and trashes Juliana's cottage.",
+  "cliffhanger": "The constable pulls the stolen watch from Alexander's coat as Gerald gloats.",
+  "cliffhanger_type": "revelation",
+  "why": "A complete, thrilling dramatic arc that ends at the exact peak of an unfair frame-up.",
+  "post_first": "Excellent, easy-to-grasp framing injustice that drives high comment engagement, though at 59 seconds it risks drop-off before the watch reveal.",
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 5,
+   "standalone": 5,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "rescore",
+  "missing_context": "None; the dialogue and visual cues explicitly lay out the bitter ex framing the new husband for theft.",
+  "flags": [
+   "6.2s with no dialogue/action"
+  ]
+ },
+ {
+  "mode": "acquisition",
+  "rank": 7,
+  "total": 4.45,
+  "cid": "E10C_0000_0389",
+  "episode": 10,
+  "pool": "C",
+  "segments": [
+   {
+    "episode": 10,
+    "start": "00:00.00",
+    "end": "00:38.90",
+    "start_sec": 0.0,
+    "end_sec": 38.9,
+    "start_element": "E10_001",
+    "end_element": "E10_030"
+   }
+  ],
+  "duration_sec": 38.9,
+  "hook": "An injured man bursts into a secluded cottage bleeding from his chest.",
+  "cliffhanger": "What horrors caused the brutal scars covering his body?",
+  "cliffhanger_type": "revelation",
+  "why": "It delivers immediate high stakes, a compelling power dynamic between the characters, and a visually striking cliffhanger reveal.",
+  "post_first": "Classic high-urgency hurt/comfort trope that reels in romance fans quickly, but lacks the explosive villain conflict of the top-ranked clips.",
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 5,
+   "standalone": 4,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "score",
+  "missing_context": "The exact nature of Alexander's past battles and their prior relationship history, though their dynamic is instantly clear.",
+  "flags": [
+   "10.1s with no dialogue/action"
+  ]
+ },
+ {
+  "mode": "acquisition",
+  "rank": 8,
+  "total": 4.45,
+  "cid": "E27A_1231_1505",
+  "episode": 27,
+  "pool": "A",
+  "segments": [
+   {
+    "episode": 27,
+    "start": "02:03.10",
+    "end": "02:30.50",
+    "start_sec": 123.1,
+    "end_sec": 150.5,
+    "start_element": "E27_079",
+    "end_element": "E27_095"
+   }
+  ],
+  "duration_sec": 27.4,
+  "hook": "A scheming noblewoman screams that the maid just confessed to poisoning the Duchess.",
+  "cliffhanger": "Guards drag Juliana away under arrest for attempted murder.",
+  "cliffhanger_type": "threat",
+  "why": "Fast-paced, explosive conflict with high emotional injustice and instant clarity.",
+  "post_first": "Fast-paced, high-stakes murder accusation that works on pure melodrama, though the framed-maid setup risks feeling generic without prior attachment to Juliana.",
+  "scores": {
+   "hook": 5,
+   "cliffhanger": 4,
+   "standalone": 4,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "rescore",
+  "missing_context": "Viewers don't know who Rupert/the nobleman is or what the Duchess's actual state is, but the framed maid trope is instantly clear.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 9,
+  "total": 4.45,
+  "cid": "E41A_0580_0961",
+  "episode": 41,
+  "pool": "A",
+  "segments": [
+   {
+    "episode": 41,
+    "start": "00:58.00",
+    "end": "01:36.09",
+    "start_sec": 58.0,
+    "end_sec": 96.09,
+    "start_element": "E41_034",
+    "end_element": "E41_053"
+   }
+  ],
+  "duration_sec": 38.09,
+  "hook": "A chained, bruised woman in a grand cathedral scathingly calls out the bride for needing an entire chapel to intimidate her.",
+  "cliffhanger": "Who blew up the cathedral doors and stepped through the smoke to crash the wedding?",
+  "cliffhanger_type": "action",
+  "why": "Incredible pacing that launches into high-octane action, ending on an explosive wedding-crash rescue cliffhanger.",
+  "post_first": "Incredible high-budget spectacle with the explosive door breach, but placing it earlier would spoil the climactic dungeon arc resolutions.",
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 5,
+   "standalone": 4,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "rescore",
+  "missing_context": "The wedding backdrop, chained heroine, villainous bride, and sudden explosive rescue explain the stakes instantly.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 10,
+  "total": 4.45,
+  "cid": "E44A_0388_0705",
+  "episode": 44,
+  "pool": "A",
+  "segments": [
+   {
+    "episode": 44,
+    "start": "00:38.80",
+    "end": "01:10.50",
+    "start_sec": 38.8,
+    "end_sec": 70.5,
+    "start_element": "E44_028",
+    "end_element": "E44_053"
+   }
+  ],
+  "duration_sec": 31.7,
+  "hook": "A bride caresses a duke professing her love, only for him to pull back in cold disgust.",
+  "cliffhanger": "The duke walks away from his glamorous bride toward a woman in chains, prompting a shocked 'Her?!'.",
+  "cliffhanger_type": "revelation",
+  "why": "Outstanding emotional tension, crystal-clear stakes, and a jaw-dropping visual twist right at the final cut.",
+  "post_first": "Delicious romantic public humiliation hook that converts browse into clicks, though it heavily spoils the climax of the bride-versus-Juliana rivalry.",
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 5,
+   "standalone": 4,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "rescore",
+  "missing_context": "The relationship between Juliana and Alexander is unexplained, but the romantic rejection and shocking class subversion are instantly understandable.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 11,
+  "total": 4.4,
+  "cid": "E02C_0000_0371",
+  "episode": 2,
+  "pool": "C",
+  "segments": [
+   {
+    "episode": 2,
+    "start": "00:00.00",
+    "end": "00:37.10",
+    "start_sec": 0.0,
+    "end_sec": 37.1,
+    "start_element": "E02_001",
+    "end_element": "E02_026"
+   }
+  ],
+  "duration_sec": 37.1,
+  "hook": "The groom bluntly announces at the altar steps that he cannot marry Juliana.",
+  "cliffhanger": "Will Juliana's stern father defend her honor or let Gerald discard her for her sister?",
+  "cliffhanger_type": "relationship",
+  "why": "It tells a complete, devastating mini-story of public betrayal and cuts exactly on an agonizing plea for family help.",
+  "post_first": null,
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 4,
+   "standalone": 5,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "rescore",
+  "missing_context": "None. The betrayal, the sister swap at the altar, and the plea to the father are completely self-evident.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 12,
+  "total": 4.4,
+  "cid": "E03C_0000_0356",
+  "episode": 3,
+  "pool": "C",
+  "segments": [
+   {
+    "episode": 3,
+    "start": "00:00.00",
+    "end": "00:35.60",
+    "start_sec": 0.0,
+    "end_sec": 35.6,
+    "start_element": "E03_001",
+    "end_element": "E03_025"
+   }
+  ],
+  "duration_sec": 35.6,
+  "hook": "An abandoned bride at the altar is mocked by her sister who stole her wedding.",
+  "cliffhanger": "Will the cold matriarch show any mercy to the discarded daughter?",
+  "cliffhanger_type": "threat",
+  "why": "It delivers high emotional resonance, clear stakes, and immediate visual storytelling that hooks scrollers within seconds.",
+  "post_first": null,
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 4,
+   "standalone": 5,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "score",
+  "missing_context": "Minimal context missing; the visual of a bride abandoned at the altar with her sister taking her place clearly establishes the betrayal and stakes for any new viewer.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 13,
+  "total": 4.4,
+  "cid": "E12B_0422_0872",
+  "episode": 12,
+  "pool": "B",
+  "segments": [
+   {
+    "episode": 12,
+    "start": "00:42.20",
+    "end": "01:27.21",
+    "start_sec": 42.2,
+    "end_sec": 87.21,
+    "start_element": "E12_030",
+    "end_element": "E12_053"
+   }
+  ],
+  "duration_sec": 45.01,
+  "hook": "Clarissa tells Juliana: 'I want to see you crawl, sister.'",
+  "cliffhanger": "Juliana accepts the brutal trial to save her husband from the gallows.",
+  "cliffhanger_type": "action",
+  "why": "Full narrative coherence with visceral stakes that clearly set up the coming ordeal.",
+  "post_first": null,
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 4,
+   "standalone": 5,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "rescore",
+  "missing_context": "Clarissa explains the entire trap: retrieve the emerald ring from frozen blackthorn briars with bare hands or Alexander hangs.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 14,
+  "total": 4.3,
+  "cid": "E23A_0860_1312",
+  "episode": 23,
+  "pool": "A",
+  "segments": [
+   {
+    "episode": 23,
+    "start": "01:26.00",
+    "end": "02:11.20",
+    "start_sec": 86.0,
+    "end_sec": 131.2,
+    "start_element": "E23_045",
+    "end_element": "E23_066"
+   }
+  ],
+  "duration_sec": 45.2,
+  "hook": "Juliana utters 'Arsenic' just as the patient violently chokes in bed.",
+  "cliffhanger": "Someone pushes open the bedroom door while Juliana is desperately grinding antidote.",
+  "cliffhanger_type": "threat",
+  "why": "Sharp, punchy hook, gripping race-against-the-clock tension, and an agonizing door-creak cliffhanger.",
+  "post_first": null,
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 5,
+   "standalone": 4,
+   "coherence": 5,
+   "emotion": 4
+  },
+  "judge": "rescore",
+  "missing_context": "A stranger can instantly understand: someone poisoned the duchess, the maid is secret-brewing the cure, and an intruder is about to catch them.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 15,
+  "total": 4.3,
+  "cid": "E26A_0902_1209",
+  "episode": 26,
+  "pool": "A",
+  "segments": [
+   {
+    "episode": 26,
+    "start": "01:30.20",
+    "end": "02:00.88",
+    "start_sec": 90.2,
+    "end_sec": 120.88,
+    "start_element": "E26_036",
+    "end_element": "E26_051"
+   }
+  ],
+  "duration_sec": 30.68,
+  "hook": "A bedridden Duchess gasps in utter shock upon spotting an engraved signet ring on a maid's finger.",
+  "cliffhanger": "The Duchess violently grabs the maid, demanding to know where she got the ring.",
+  "cliffhanger_type": "revelation",
+  "why": "A textbook secret-identity cliffhanger with intense pacing and immediate stakes.",
+  "post_first": null,
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 5,
+   "standalone": 4,
+   "coherence": 5,
+   "emotion": 4
+  },
+  "judge": "rescore",
+  "missing_context": "Why the ring matters to the Duchess or whose ring it originally was.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 16,
+  "total": 4.25,
+  "cid": "E50C_0000_0350",
+  "episode": 50,
+  "pool": "C",
+  "segments": [
+   {
+    "episode": 50,
+    "start": "00:00.00",
+    "end": "00:35.00",
+    "start_sec": 0.0,
+    "end_sec": 35.0,
+    "start_element": "E50_001",
+    "end_element": "E50_017"
+   }
+  ],
+  "duration_sec": 35.0,
+  "hook": "A woman in bed tells a priest he has plenty of energy left.",
+  "cliffhanger": "Will Catherine agree to the priest's extortionate price for her silence?",
+  "cliffhanger_type": "dialogue",
+  "why": "It immediately grabs attention with a taboo premise and high-stakes blackmail, though the ending is a bit too much of a mic-drop punchline rather than an open cliffhanger.",
+  "post_first": null,
+  "scores": {
+   "hook": 5,
+   "cliffhanger": 3,
+   "standalone": 5,
+   "coherence": 5,
+   "emotion": 4
+  },
+  "judge": "score",
+  "missing_context": "None. The forbidden affair and the transactional nature of their relationship are entirely clear from the dialogue and action alone.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 17,
+  "total": 4.2,
+  "cid": "E34A_1498_1842",
+  "episode": 34,
+  "pool": "A",
+  "segments": [
+   {
+    "episode": 34,
+    "start": "02:29.80",
+    "end": "03:04.20",
+    "start_sec": 149.8,
+    "end_sec": 184.2,
+    "start_element": "E34_094",
+    "end_element": "E34_114"
+   }
+  ],
+  "duration_sec": 34.4,
+  "hook": "Lady Juliana stands unyielding before the court as the judge issues a severe warning.",
+  "cliffhanger": "What sentence will the judge hand down after Juliana's defiant speech?",
+  "cliffhanger_type": "threat",
+  "why": "This is a stellar promo clip: strong defiant hook, emotional speech, gavel smash, and a cut right before the final sentence is pronounced.",
+  "post_first": null,
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 5,
+   "standalone": 3,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "score",
+  "missing_context": "The viewer misses the bulk of the trial evidence, though the high-stakes sentencing is universally understood.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 18,
+  "total": 4.15,
+  "cid": "E01B_0814_1380",
+  "episode": 1,
+  "pool": "B",
+  "segments": [
+   {
+    "episode": 1,
+    "start": "01:21.40",
+    "end": "02:18.00",
+    "start_sec": 81.4,
+    "end_sec": 138.0,
+    "start_element": "E01_056",
+    "end_element": "E01_095"
+   }
+  ],
+  "duration_sec": 56.6,
+  "hook": "Juliana begs her silent father to stop the mistake.",
+  "cliffhanger": "Will Juliana accept her humiliation, or will she strike back?",
+  "cliffhanger_type": "revelation",
+  "why": "A powerhouse emotional sequence of betrayal and family cruelty that builds high tension and sympathy for the lead.",
+  "post_first": null,
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 4,
+   "standalone": 4,
+   "coherence": 4,
+   "emotion": 5
+  },
+  "judge": "score",
+  "missing_context": "The viewer misses the immediate prior moments of the wedding ceremony starting, but the betrayal and family cruelty are instantly clear.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 19,
+  "total": 4.15,
+  "cid": "E02A_0476_0966",
+  "episode": 2,
+  "pool": "A",
+  "segments": [
+   {
+    "episode": 2,
+    "start": "00:47.60",
+    "end": "01:36.60",
+    "start_sec": 47.6,
+    "end_sec": 96.6,
+    "start_element": "E02_033",
+    "end_element": "E02_067"
+   }
+  ],
+  "duration_sec": 49.0,
+  "hook": "The treacherous sister mocks the jilted bride at the altar.",
+  "cliffhanger": "Will Juliana successfully destroy her ex-fiancé's reputation before walking out?",
+  "cliffhanger_type": "revelation",
+  "why": "It delivers maximum emotional catharsis, letting the viewer experience deep humiliation followed by an exceptionally satisfying revenge-in-words.",
+  "post_first": null,
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 4,
+   "standalone": 4,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "score",
+  "missing_context": "The exact family dynamics leading up to the wedding betrayal, though the visual of a jilted bride being mocked by her sister and ex-fiancé makes the core conflict instantly clear.",
+  "flags": []
+ },
+ {
+  "mode": "acquisition",
+  "rank": 20,
+  "total": 4.15,
+  "cid": "E13C_0000_0284",
+  "episode": 13,
+  "pool": "C",
+  "segments": [
+   {
+    "episode": 13,
+    "start": "00:00.00",
+    "end": "00:28.40",
+    "start_sec": 0.0,
+    "end_sec": 28.4,
+    "start_element": "E13_001",
+    "end_element": "E13_014"
+   }
+  ],
+  "duration_sec": 28.4,
+  "hook": "A tracking shot through a menacing, frost-encrusted thicket of blackthorn briars with eerie wind sound design.",
+  "cliffhanger": "Alexander begs her not to go through the thorns, choosing the gallows instead, just as she prepares to sacrifice herself.",
+  "cliffhanger_type": "action",
+  "why": "It delivers high-stakes romantic devotion and physical danger instantly, hooking viewers with a powerful self-sacrificial premise.",
+  "post_first": null,
+  "scores": {
+   "hook": 4,
+   "cliffhanger": 4,
+   "standalone": 4,
+   "coherence": 5,
+   "emotion": 5
+  },
+  "judge": "score",
+  "missing_context": "A viewer might miss why Alexander is in handcuffs and why Juliana has to crawl through the briars, but the high-stakes emotional sacrifice between the couple is immediately clear.",
+  "flags": []
+ }
+]

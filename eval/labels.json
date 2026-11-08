@@ -1,0 +1,34 @@
+{
+  "_how": "Labels written by Claude (the AI assistant that also wrote the scoring prompts), NOT by a human editor, because the author ran out of time. To limit bias they were written from the raw screenplays of 10 episodes whose candidates/scores had not been opened, and before looking at any output for them. Treat as AI editorial judgement, not ground truth; a human spot-check of a few is the honest next step. 'weak': true means the labeller thinks the episode has no promo worth posting, so the best outcome is that nothing from it is shortlisted. Labels without 'set' (eps 6-38) are the 'dev' set: they exposed v1's failure cases, so v2 was designed after seeing them. Labels with set='fresh' (8, 22, 33, 48) were written blind BEFORE v2 was built and are the honest test of v2.",
+  "labels": [
+    {"episode": 6,  "start": "00:07.10", "end": "00:33.15", "weak": true,
+     "note": "Quiet walk to the cottage. Best available: 'I know this is not the life you came from' -> 'At least no one there will be waiting to humiliate me'. No real cliffhanger."},
+    {"episode": 10, "start": "00:02.10", "end": "00:39.20", "weak": false,
+     "note": "Door bangs open, husband soaked in blood ('Alexander!'); ends on his shirt off revealing battle scars and 'Dear God.' Question: who is he, what happened to him?"},
+    {"episode": 12, "start": "00:26.80", "end": "01:09.50", "weak": false,
+     "note": "Hook 'You planted it!'; sister's sadistic ultimatum; ends on the whisper 'Fail, or refuse, and your husband hangs from the gallows.'"},
+    {"episode": 14, "start": "00:47.00", "end": "01:27.63", "weak": false,
+     "note": "'You could have lost your hands' -> his vow 'No one will ever hurt you for protecting me again' -> fist clenched over the bloody bucket, cut to black. Medium hook, vengeance cliffhanger."},
+    {"episode": 17, "start": "01:26.50", "end": "01:58.88", "weak": true,
+     "note": "Tender episode. Best available is the teasing scene ending on 'I know almost nothing about the man I married.' Weak hook."},
+    {"episode": 19, "start": "00:43.00", "end": "01:23.70", "weak": false,
+     "note": "A scarred stranger bows: 'Your Grace.' Spy report: his mother is a prisoner, everyone thinks he is dead; ends 'Then let them believe it a little longer.'"},
+    {"episode": 21, "start": "00:03.50", "end": "00:35.80", "weak": false,
+     "note": "Barn doors slam, 'Toby is dying!'; doctors refused the poor; ends on 'He is only seven! If you do not come, he will die!'"},
+    {"episode": 26, "start": "01:20.00", "end": "02:00.88", "weak": false,
+     "note": "'My family cast me out to rot' -> the Duchess sees the ring, 'Where did you get this ring? Speak to me!' Episode-ending cliffhanger."},
+    {"episode": 29, "start": "00:02.80", "end": "00:56.50", "weak": false,
+     "note": "Guards drag her into the dungeon; rival threatens to burn her mother's book and call it witchcraft; ends '...no one will remember what was written inside.'"},
+    {"episode": 38, "start": "00:43.20", "end": "01:24.00", "weak": false,
+     "note": "'Do you know they condemned me?' -> church bells: 'The wedding. It's beginning. Then I suppose I'm next.' -> 'Alexander...' cut to black."},
+
+    {"episode": 8,  "start": "00:25.00", "end": "00:51.20", "weak": true, "set": "fresh",
+     "note": "Quiet herb-book episode. Best available: 'I could trim them for you' -> he catches her wrist: 'Not yet.' Small mystery, no real cliffhanger."},
+    {"episode": 22, "start": "01:22.50", "end": "02:11.00", "weak": false, "set": "fresh",
+     "note": "'Where is the West Wing?' -> sneaks into the dying Duchess's room -> 'This isn't ordinary fever... Who has been treating you?' Episode-ending cliffhanger."},
+    {"episode": 33, "start": "01:16.80", "end": "02:06.50", "weak": false, "set": "fresh",
+     "note": "Maid screams 'What do you want me to say?!' as a lord coerces false testimony -> 'That is witchcraft.'"},
+    {"episode": 48, "start": "00:02.40", "end": "00:51.30", "weak": false, "set": "fresh",
+     "note": "Villain monologue: 'Two words, and that healer's crown rolls back into the gutter' -> 'Ten days is not a wall, it's a door' -> 'I'm going back into that house.'"}
+  ]
+}

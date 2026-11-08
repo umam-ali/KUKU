@@ -1,0 +1,55 @@
+# Which model plays which role. Swap a model by editing one line here.
+# Model IDs must match the provider's API names; check them with `python -m src.llm --list-models`.
+providers:
+  gemini:
+    base_url: https://generativelanguage.googleapis.com/v1beta/openai
+    api_key_env: GEMINI_API_KEY
+  groq:
+    base_url: https://api.groq.com/openai/v1
+    api_key_env: GROQ_API_KEY
+
+# Free-tier limits from the user's own consoles (Nov 2026). The client throttles to these.
+limits:
+  gemini-3.5-flash-lite: {rpm: 15, tpm: 250000, rpd: 500}
+  gemini-3.1-flash-lite: {rpm: 15, tpm: 250000, rpd: 500}
+  gemini-3.6-flash:      {rpm: 5,  tpm: 250000, rpd: 20}
+  gemini-3.8-flash:      {rpm: 5,  tpm: 250000, rpd: 20}
+  openai/gpt-oss-120b:   {rpm: 30, tpm: 8000,   rpd: 1000}
+  qwen/qwen3.8-27b:      {rpm: 30, tpm: 8000,   rpd: 1000}
+
+# fallback: used when the main model hits its daily limit or keeps failing.
+# reasoning_effort: thinking tokens count against max_tokens, so keep it low for structured JSON.
+# Measured latency on the free tier (Nov 2026): 3.6-flash ~3s, 3.8-flash ~75s per call.
+roles:
+  episode:  {provider: gemini, model: gemini-3.5-flash-lite, fallback: gemini-3.1-flash-lite}
+  series:   {provider: gemini, model: gemini-3.6-flash, fallback: gemini-3.8-flash, reasoning_effort: low}
+  score:    {provider: gemini, model: gemini-3.5-flash-lite, fallback: gemini-3.1-flash-lite}
+  rescore:  {provider: gemini, model: gemini-3.6-flash, fallback: gemini-3.8-flash, reasoning_effort: low}
+  check:    {provider: groq,   model: openai/gpt-oss-120b, fallback: qwen/qwen3.8-27b, reasoning_effort: low}
+
+promo:
+  min_sec: 20
+  max_sec: 60
+  hook_sec: 3            # the hook must land in the first N seconds
+  end_window_sec: 5      # text shown to the judge as "the ending"
+  hidden_next_sec: 8     # continuation shown to the judge but NOT part of the promo
+  # Candidate pools. A = event-driven, B = episode endings ("duration" = v1 start by length,
+  # "hooks" = v2 backward hook search), C = episode openings (v2). Override with --pools.
+  pools: {A: true, B: hooks, C: true}
+  max_candidates_per_episode: 5
+  max_promos_per_episode: 3
+  top_n: 20
+  explain_top: 10
+  dedupe_overlap: 0.5    # drop a promo overlapping a higher-ranked one by more than this
+  # Two shortlists from the same scores. Weights are heuristics, not learned.
+  modes:
+    acquisition:   # ads for people who have never seen the show
+      gates: {hook: 3, cliffhanger: 3, standalone: 3, coherence: 3}
+      weights: {hook: 0.30, cliffhanger: 0.30, standalone: 0.25, emotion: 0.15}
+      spoiler_penalty: 0.5     # later twist (not the premise) given away, severity >= 4
+    engagement:    # re-engagement for viewers who dropped off mid-series
+      gates: {hook: 3, cliffhanger: 3, coherence: 3}
+      weights: {hook: 0.30, cliffhanger: 0.30, standalone: 0.10, emotion: 0.30}
+      spoiler_penalty: 0
+  spoiler_check_top: 60        # acquisition candidates checked for spoilers
+  rescore_budget_sec: 120      # max wait for the stronger model (free tier is often overloaded)
